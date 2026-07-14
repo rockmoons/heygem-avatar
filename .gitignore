@@ -1,0 +1,18 @@
+# 敏感配置
+config.json
+
+# 用户隐私资产
+assets/avatars/*
+assets/voices/*
+!assets/avatars/.gitkeep
+!assets/voices/.gitkeep
+!assets/avatars/metadata.json
+!assets/voices/metadata.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
+/tmp/
