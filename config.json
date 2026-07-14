@@ -10,7 +10,7 @@
   },
   "asr": {
     "provider": "local",
-    "local": { "model_size": "medium", "language": "zh", "device": "cpu" },
+    "local": { "model_size": "Systran/faster-whisper-small", "language": "zh", "device": "cpu" },
     "cloud": { "endpoint": "", "apikey": "" }
   },
   "heygem": {
