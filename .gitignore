@@ -1,6 +1,3 @@
-# 敏感配置
-config.json
-
 # 用户隐私资产
 assets/avatars/*
 assets/voices/*
