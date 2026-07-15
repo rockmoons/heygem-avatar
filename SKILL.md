@@ -7,6 +7,12 @@ description: 抖音视频数据+数字人口播一体化工具。输入抖音链
 
 > 作者：阿南 rockmoons（抖音）· 微信：rockmoons · API：www.rockmoons.com
 
+## 中文编码铁律
+
+凡处理中文的 shell 命令，一律写成 Python 脚本文件再执行，禁止在命令行直接拼接中文字符串。Python 脚本头部加 `# -*- coding: utf-8 -*-`。
+
+---
+
 ## UX 铁律（每次执行前心里默念）
 
 1. **人话** — 不说 ASR/API/GPU/Docker compose，说「提取文案」「联网获取」「视频生成中」「启动服务」
